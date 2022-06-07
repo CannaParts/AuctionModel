@@ -1,5 +1,5 @@
 # AuctionModel
-**Rock Solid Regulation Model For Cannabis Legalization**
+**A Rock Solid Regulation Model For Cannabis Legalization**
 
 <br>
 
@@ -7,4 +7,8 @@ It's supposed to [~~start~~ the text extraction](https://github.com/CannaParts/A
 
 [Twitter origin: **#Auktionsmodell** (German)](https://twitter.com/PeterNorml/status/1450430050281603075)  
 
-soon....
+soon...
+
+<br>
+
+### [LogBlog German WeedMobb](https://github.com/CannaParts/AuctionModel/LogBlogWeedMobbDE.md) 
