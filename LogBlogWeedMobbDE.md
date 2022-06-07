@@ -1,9 +1,10 @@
-**Lieber Weedmob!**  
+**Lieber WeedMobb!**  
 
 <br>
 
-*07.06.2022*<a id='07.06.2022'></a>  
-Ich versuche es sehr ernsthaft möglich zu machen [dieses Angebot](https://twitter.com/weedland_berlin/status/1529064991067983872) annehmen zu können.
+**07.06.2022**<a id='07.06.2022'></a> *Vorbereitung Cannabis Normal Konferenz Berlin*  
+
+Ich versuche es sehr ernsthaft möglich zu machen [dieses Angebot](https://twitter.com/weedland_berlin/status/1529064991067983872) annehmen zu können!
 
 Wichtig:
 - Ich hätte das gerne "offiziell" das ich sprechen darf.

@@ -12,3 +12,4 @@ soon...
 <br>
 
 ### [LogBlog German WeedMobb](https://github.com/CannaParts/AuctionModel/blob/main/LogBlogWeedMobbDE.md) 
+- [07.06.2022](https://github.com/CannaParts/AuctionModel/blob/main/LogBlogWeedMobbDE.md#07.06.2022) *Vorbereitung Cannabis Normal Konferenz Berlin*
