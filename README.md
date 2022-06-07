@@ -11,4 +11,4 @@ soon...
 
 <br>
 
-### [LogBlog German WeedMobb](https://github.com/CannaParts/AuctionModel/LogBlogWeedMobbDE.md) 
+### [LogBlog German WeedMobb](https://github.com/CannaParts/AuctionModel/blob/main/LogBlogWeedMobbDE.md) 
