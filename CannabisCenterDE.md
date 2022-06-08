@@ -46,12 +46,12 @@ Geschätzt:
 "Nur" 50% des Cannabis auf dem Markt kommt aus gewaltbereiten oder anderweitig bösen Quellen oder/und ist verunreinigt.
 Denn 10.000e friedliche HomeGrower in Deutschland sorgen für die anderen 50% des aktuellen Bedarfes.
 
-Ich schätze weiter, das mind. 1.000 dieser Grower so professionell sind, das sie binnen Stunden Personal einstellen und eine Lizenz beantragen würden/wollen - und sehr kurzfristig den aktuell aus bösen Quellen abgedeckten Bedarf ersetzen würden. 
+Ich schätze weiter, das mind. 1.000 dieser Grower so professionell sind, das sie binnen Stunden Personal einstellen und eine Lizenz beantragen würden/wollen - und sehr kurzfristig den aktuell aus bösen Quellen abgedeckten Bedarf ersetzen könnten. 
 
 <br>
 
 **Wie folgt könnte man schon ab in 16 Wochen**<a id='LegalIn16Weeks'></a>  
-den überwiegenden Teil des Marktes staatlich kontrolliert bedienen - ohne bestehende, erprobte und friedliche Strukturen zerstören zu müssen.
+*den überwiegenden Teil des Marktes staatlich kontrolliert bedienen - ohne bestehende, erprobte und friedliche Strukturen zerstören zu müssen.*
 
 **Anbauerlaubnis für alle Grower/Dealer die weder** 
 
@@ -59,17 +59,18 @@ den überwiegenden Teil des Marktes staatlich kontrolliert bedienen - ohne beste
 
 - Die nicht im Knast sitzen aber aktuellen Lagerbestand oder lebende Pflanzen haben machen eine Steuernach- und Amnestiezahlung von z.B. xxxx€ / kg und x€ / Pflanze. 
 
-- Wir erlauben jedem Homegrower jählich bis zu 3kg Blüte (+ 2kg "Allerlei") an Überschüssen aus Selbstversorgung an das CannabisCenter zu liefern. *Also, <= 3kg/Jahr Überschuss sind völlig Stress-, Steuer- und Genehmigungsfrei.*
+- Wir erlauben jedem Homegrower jählich bis zu [3kg Blüte (+ 2kg "Allerlei")](#3kg) an Überschüssen aus Selbstversorgung an das CannabisCenter zu liefern. *Also, <= 3kg/Jahr Überschuss sind völlig Stress-, Steuer- und Genehmigungsfrei.*
 
-- Wir erlauben "Kommerz-CSCs" (mit bis zu 50 Vollzeitstellen und "Coffeeshop" für Nichtmitglieder/Touristen) obige privaten 3kg Überschuss all ihrer Mitglieder an zentralisierten Orten anbauen zu können. (Das Verhältniss ist auf max. 1 Vollzeitstelle pro 12 Mitglieder beschränkt.)
+- Wir erlauben neben rein gemeinnützigen CSCs auch "Kommerz-CSCs" (mit bis zu 50 Vollzeitstellen und "Coffeeshop" für Nichtmitglieder/Touristen), die obige privaten 3kg Überschuss all ihrer Mitglieder an zentralisierten Orten anbauen können. (Das Verhältniss ist auf max. 1 Vollzeitstelle pro 12 Mitglieder beschränkt.)
 *Also, bis zu 150kg/Monat **über** den Bedarf des eigentlichen CSC wären vereinfacht für CSCs produzierbar.*
 
-- Die "Dealer" eröffnen Fachgeschäfte/Coffeeshops und können die Ware auf den Auktionen im CannabisCenter ersteigern. Ein Dealer kann auch Grower sein - nachdem auch sein Material getestet wurde und die Steuerbanderole bezahlt ist, geht's dann halt nicht in die öffentliche Auktion. *Diese Gruppe wird mit mehr als 3kg / Tag zu anfällig für "Blödsinn" - ggf. müssen aber 5kg sein um keine höheren Gleichheitsprinzipien gegenüber den Kommerz-CSCs zu verletzen*
+- Die "Dealer" eröffnen Fachgeschäfte/Coffeeshops und können die Ware auf den Auktionen im CannabisCenter ersteigern. Ein Dealer kann auch Grower sein - nachdem auch sein Material getestet wurde und die Steuerbanderole bezahlt ist, geht's dann halt nicht in die öffentliche Auktion. *Diese Gruppe wird mit mehr als 3kg / Tag zu anfällig für "Blödsinn" - ggf. müssen aber 5kg sein um keine höheren Gleichheitsprinzipien gegenüber den Kommerz-CSCs zu verletzen.*
 
 - Die Single Grower welche regelmäßig Material (>3kg / Jahr) liefern, müssen ihren Growbereich vom @tuevverband und @FeuerwehrDFV absegnen lassen.
 - Dealer und Angestellte müssen sich in Schulungen mittelfristig qualifizieren.
-- Jedes Batch, egal aus welcher Quelle muss im CannabisCenter auf Cannabinoidgehalt, Verunreinigungen, Schimmel, etc. getestet - und mit
-Steuerbanderole versehen werden! *Nein, selbstverständlich muss ein CSC nicht die gesamte Ernte zum Center schleppen - aber einige Gramm schon. **Wann auch immer es über eine Theke geht muss Lebensmittelqualität gewährleistet sein und ich will im Center und CSC "Köpfe rollen" sehen wenn Mist gebaut wird!** Ich bin dem Staat dankbar die Verantwortung dafür übertragen zu dürfen und mit fairen Steuern für den Aufwand entlohnen zu können.*
+- Jedes Batch, egal aus welcher Quelle muss im CannabisCenter auf Cannabinoidgehalt, Verunreinigungen, Schimmel, etc. getestet und mit
+Steuerbanderole versehen werden!  
+*Nein, selbstverständlich muss ein CSC nicht die gesamte Ernte zum Center schleppen - aber einige Gramm schon. **Wann auch immer es über eine Theke geht muss Lebensmittelqualität gewährleistet sein und ich will im Center und CSC "Köpfe rollen" sehen wenn Mist gebaut wird!** Ich bin dem Staat dankbar die Verantwortung dafür übertragen zu dürfen und mit fairen Steuern für den Aufwand entlohnen zu können!*
 
 - Last but not least, - reine Produktionsfirmen dürfen maximal 3kg/Monat und Vollzeitstelle in das Center bringen.
 
@@ -89,15 +90,15 @@ Wir sehen gleiches Verhalten in Kanada. Die Inhaber von Cannabis Microlizenzen h
 
 ### Der Kern des Cannabis Center<a id='CannabisCenterI'></a>
 - Die Cannabis-Center und dort stattfindenden Auktionen/Börsen sind staatlich!  
-Sie dienen nicht einzig der qualitativen Kontrolle, Besteuerung und dem Handel der Ware. Sie sind darüber hinaus auch die zentralen und primären Kompetenz-, Schulungs- und Qualifikationszentren der gesamten Branche. 
-"Selbst" CSCs müssen ihr festes Personal dort schulen und Proben ihrer Ernten testen lassen.  
-*Alle anderen sowieso!  
-Alle Standards die im Umgang mit Lebensmitteln erfüllt werden müssen - müssen auch für Cannabis gelten!*
+Sie dienen nicht einzig der qualitativen Kontrolle, Besteuerung und dem Zwischenhandel der Ware. Sie sind darüber hinaus auch die zentralen und primären Kompetenz-, Schulungs- und Qualifikationszentren der gesamten Branche.  
+*"Selbst" CSCs müssen ihr festes Personal dort schulen und Proben ihrer Ernten testen lassen.  
+Alle anderen sowieso!*  
+***Alle Standards die im Umgang mit Lebensmitteln erfüllt werden müssen - müssen auch für Cannabis gelten!***
 
 Einzig der rein private Grow würde nicht staatlicher Kontrolle unterliegen. Erst bei Abgabe als Überschuss wäre die qualitative Kontrolle nötig.
 
 Also wann auch immer, z.B. bei der Apothekenlösung auf das Schulungsproblem hingewiesen wird - selbst die müssten ihre Weiterbildungen im Cannabis-Center absolvieren!  
-Wenn wir jedoch auf komplizierte Überregulierungen verzichten und die Spreu vom Weizen der existierenden Strukturen trennen - sitzen bereits 1000e neue Arbeitnehmer mit Grundwissen in den Schulungen bevor die Apotheken überhaupt 1% ihres Personals freigestellt bekommen.
+Wenn wir jedoch auf komplizierte Überregulierungen verzichten und die Spreu vom Weizen der existierenden Strukturen trennen - sitzen bereits 1000e neue Arbeitnehmer mit fundiertem Grundwissen in den Schulungen bevor die Apotheken überhaupt 1% ihres Personals freigestellt bekommen.
 
 <br>
 <br>
@@ -105,7 +106,7 @@ Wenn wir jedoch auf komplizierte Überregulierungen verzichten und die Spreu vom
 ### Gesamtgesellschaftlicher Blick<a id='Society'></a>
 - Das Cannabis-Center Modell richtig angewandt könnte Cannabis so günstig machen das Schwarzproduktion einfach keinen Sinn mehr macht. Aber auch kein Grower oder Coffeeshop kann dann mehr Lohn erwarten als ein Brauer oder Kneipier!
 
-- Schnell würde das gesamte Business des "Freizeitkonsums" recht uninteressant und damit schwände auch das Gesamtgesellschaftliche Interesse an der Pflanze als "Droge". Es wäre der schnellste Weg hin zu einer ähnlichen Gesellschaftlichen Beachtung und Belastung wie vor der Prohibition!
+- Schnell würde das gesamte Business des "Freizeitkonsums" recht uninteressant und damit schwände auch das Gesamtgesellschaftliche Interesse an der Pflanze als "Droge". Es wäre der schnellste Weg hin zu einer ähnlich (un)belasteten Gesellschaftlichen (Nicht)beachtung des Krauts wie vor der Prohibition!
 
 
 - *(Oder kann irgendwer eine Zeit oder ein Ereignis in der Deutschen Geschichte vor dem 20Jhd. nennen mit einem Cannabisproblem?)
@@ -129,6 +130,7 @@ Mir fallen da bloß "Starker Tobak" "Knaster" "Hänfling" und "NIL-Zigaretten" a
 Ich denke man kann langsam erkennen das die 3kg/Mann/Monat(bzw. Jahr)-Idee allen Playern gleiche Chancen bietet und zu exzellenten Qualitäten bei niedrigen Preisen führen wird - was (moderate Steuern vorausgesetzt) den Betrieb eines Schwarzmarktes so attraktiv macht als wenn man Bier aufm Schulhof verkaufen wolle.  
 
 Einer maßlosen Bereicherung und Marktdominanz durch internationale Megaplayer wäre ein sicherer Riegel vorgeschoben.  
+*Ohne auch nur im geringsten gegen die Grundwerte eines freien Marktes für ein regulierungswürdiges Produkt (Lebensmittelqualität) zu verstoßen!*
 
 Der gemeine Bürger wäre frei von Repressalien.
 
