@@ -1,7 +1,9 @@
 # AuctionModel
 **A Rock Solid Regulation Model For Cannabis Legalization**
+
 ### [CannabisCenter bzw. Auktionsmodell (German)](https://github.com/CannaParts/AuctionModel/blob/main/CannabisCenterDE.md)
 
+<br>
 
 ### [LogBlog German WeedMobb](https://github.com/CannaParts/AuctionModel/blob/main/LogBlogWeedMobbDE.md) 
 - [07.06.2022](https://github.com/CannaParts/AuctionModel/blob/main/LogBlogWeedMobbDE.md#07.06.2022) *Vorbereitung Cannabis Normal Konferenz Berlin*
