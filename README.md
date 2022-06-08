@@ -1,5 +1,5 @@
-# AuctionModel
-**A Rock Solid Regulation Model For Cannabis Legalization**
+# AuctionModel / CannabisCenter
+**A Rock Solid Regulation Model How To Legalize Cannabis**
 
 ### [CannabisCenter bzw. Auktionsmodell (German)](https://github.com/CannaParts/AuctionModel/blob/main/CannabisCenterDE.md)
 
