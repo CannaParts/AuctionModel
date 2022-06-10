@@ -2,6 +2,21 @@
 
 <br>
 
+**10.06.2022**<a id='10.06.2022'></a> *Vorbereitung Cannabis Normal Konferenz Berlin III*  
+
+Wichtig:
+- **Ihr habt es wohl geschafft! Ich bin gestern 3x um meine Kontaktdaten gebeten worden!  
+!! Super !! DANKE !!**
+
+ImmerNochNichtSoWichtig:
+- Logo für das CannabisCenter bzw. Auktionsmodell  
+**"Der Schwarzmarkt Ist Ein Regenbogen"**  
+So, a la: Sternschnuppe (Schwarz) - der Schweif fächert sich in einen Regenbogen auf.  
+*Wer kann/mag das "malen"?* (unter cc-Lizenz)
+
+<br>
+<br>
+
 **08.06.2022**<a id='08.06.2022'></a> *Vorbereitung Cannabis Normal Konferenz Berlin II*  
 
 Wichtig:
