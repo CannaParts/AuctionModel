@@ -2,6 +2,34 @@
 
 <br>
 
+**15.06.2022**<a id='15.06.2022'></a> *Vorbereitung Cannabis Normal Konferenz Berlin V*  
+
+Info:
+- **3x Minuten langer Skype-Chat mit Georg und Maria vom DHV** (13.06.2022)  
+Um es grob zusammenzufassen:  
+Das [CannabisCenter bzw. Auktionsmodell](https://github.com/CannaParts/AuctionModel/blob/main/CannabisCenterDE.md) hätte eine eigene Diskussion auf der [Cannabis Normal Konferenz](https://cannabisnormal.de/) erhalten können - wenn wir (ich & der Twitter-Weedmob) uns nur nen Funken mehr auf eMail, Telefon und PMs statt liken und retweeten verlassen hätten.  
+ABER  
+Jetzt ist der direkte Kontakt da - und ich bin "in seinem Kopf" - als einer der doch noch mal ganz anders als die Anderen ist.  
+In der Session [Großkonzerne vs. lokale Biobauern](https://cannabisnormal.de/sessions/gro%C3%9Fkonzerne-vs-lokale-biobauern) werde ich ein Impulsreferat halten und mich überhaupt so lange wie nur möglich auf der Konferenz aufhalten. 
+
+- **[Cannabis - aber Sicher](https://www.bundesdrogenbeauftragter.de/cannabis-aber-sicher/#c1044)** Hearings  
+Auch wenn die Akkreditierungsangaben und Links zu dem "internationalen Hearing" am 30.06.2022 äußerst undeutlich/verwirrend sind habe ich mich mal als unabhängiger Experte empfohlen. [Text und grobe Form des Bewerbung](https://github.com/CannaParts/AuctionModel/blob/main/AkkreditierungHearingBT2022.md).  
+*Nein! Ich werde 100% kein bisschen enttäuscht sein wenn ich nicht mal eine Antwort enthalte - ich kann nur gewinnen und bleibe meinem Stil einfach treu.* Entscheidend ist doch, das ich Menschen persönlich treffen werde die nach dem Treffen ganz sicher noch an einem oder mehreren der Hearings teilnehmen werden.
+
+Logo:
+- Twitter User [Mario](https://twitter.com/pmar051)! Er hat zwei weitere Versionen des **"Der Schwarzmarkt Ist Ein Regenbogen"**-Logos [Erstes](https://twitter.com/pmar051/status/1535545596102287360) und [Zweites](https://twitter.com/pmar051/status/1535551612315484160) erstellt:  
+![BlackRain02](https://github.com/CannaParts/AuctionModel/blob/main/img/BlackRain02.jpeg)  
+![BlackRain03](https://github.com/CannaParts/AuctionModel/blob/main/img/BlackRain03.jpeg) 
+
+- Twitter User [champignons leak](https://twitter.com/carstendotcom) hat nen [Haufen Variationen](https://twitter.com/carstendotcom/status/1535561114607558656) in Form zweier Ansichten beigesteuert:  
+![BlackRain04](https://github.com/CannaParts/AuctionModel/blob/main/img/BlackRain04.jpeg)  
+![BlackRain05](https://github.com/CannaParts/AuctionModel/blob/main/img/BlackRain05.jpeg)
+
+- *Ich bin gerade zu busy mich dem tiefer zu widmen... erst mal CaNoKo....*
+
+<br>
+<br>
+
 **11.06.2022**<a id='11.06.2022'></a> *Vorbereitung Cannabis Normal Konferenz Berlin IV*  
 
 Info:
