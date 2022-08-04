@@ -1,6 +1,48 @@
-**Lieber WeedMobb!**  
+**Lieber WeedMob!**  
 
 <br>
+
+**04.08.2022**<a id='04.08.2022'></a> *CSC Aktivismus*  
+
+**Vorab:**  
+Ohhh, ich freue mich ungemein über den Aktivismus mit dem CSCs geplant und vorbereitet werden! Einige Entwicklungen dabei machen mir dabei jedoch echte Bauchschmerzen. Das geht soweit, das ich mich keinem der je im Twitter-Weedmob besprochenen CSCs anschließen könnte.
+
+- **Mitglieder und Interessenten Datenverwaltung**  
+Wie wir alle wissen wird es einen Evaluierungsprozess und immer wieder auch Neuwahlen zu Landes- und Bundestagswahlen geben. Fürchtet denn niemand von euch daß digitale Daten jemals in fremde und missbrauchende Hände gelangen könnten?  
+Es gibt natürlich gewisse Regeln zum Betreiben eines Vereins.  
+Keine dieser Regeln bedingt im Austausch mit den Behörden oder den Mitgliedern eine digitale Speicherung - oder gar einen online Zugriff!
+Wenn aber über organisatorische Dinge gesprochen wird - ist die "Homepage" das Erste auf das sich gestürzt wird und dann irrwitzige Funktionalitäten für die Öffentlichkeit und die Mitglieder erfüllen soll.  
+Völlig schmerzbefreit wird so getan als wäre nach Tag-X alles gut und wir würden dann legaler/normaler Teil der Gesellschaft sein dürfen.  
+NEIN - werden wir nicht!  
+Erst nachdem sich eine Unionsgeführte Regierung zu legalem Cannabis bekannt hat und alle Evaluierungsfallstricke geschlossen wurden wird eine Normalisierung beginnen können. 
+
+- **Online Präsenz / Werbung**  
+Wofür?  
+Jetzt mal im Ernst!  
+**WOFÜR?**  
+Ich verstehe es nicht!  
+*Ich habe in dem Dorf (~1.500 Leute) in dem ich aufgewachsen bin und demnächst auch wieder leben werde den erstbesten "von damals" gefragt ob er denn spontan noch 5 coole Leute für nen Mini-Dorf-CSC zusammen bekäme... 20 kamen natürlich - wie aus der Pistole geschossen...  
+Gegenüber-Nachbar meiner Mutter sieht mich, kommt rüber... "Jetzt wo es legal wird - kann ich da meinen Ersten mit Dir rauchen"?* (Der Kerl ist Mitte 40)  
+Also nochmal - Ich (für mich) verstehe es nicht!  
+Und ich kann mir wirklich nur sehr schlecht vorstellen das ich der "Einzige" sein soll der in DE eher Anti-Werbung machen muss...?!?  
+Ja, ich war 15 Jahre weg... aber im Groben hat sich in meinem Dorf (und dem benachbarten Universitätsstädtchen) nichts geändert.  
+Wer auch immer in "meinen 30km" einen CSC plant der schon jetzt öffentlich um Spenden/Mitglieder bettelt - wird leer ausgehen.  
+Nein - nicht wegen mir! Aber wegen Leuten wie mir.  
+Wenn die Hälfte aller Daily-Stoner mit ihrem aktuellen 7-20 Leuten Netzwerk jetzt beschließen: *"YES - an Tag-X machen wir nen CSC und warten jetzt erst mal wie die Regeln werden"* ist der Drop doch gelutscht.  
+Solche CSCs können sich spontan mit Wochenendkiffern verdreifachen ohne mehr Anbaufläche zu benötigen oder sonstigen nennenswerten Mehraufwand treiben zu müssen - es läuft ja jetzt im Grunde auch nicht anders - ist bloß Strafbewehrt.   
+
+Ich habe im Grunde eine blühende Phantasie - habe aber wirklich Schwierigkeiten mir vorzustellen, wie anders das in großen Städten sein soll, dass es nicht doch sehr vergleichbar wäre. Ich habe nur einen Link zu einer Millionenstadt und da bewege ich mich in einer totalen Bubble - Connewitz in Leipzig. Habe aber mal so ein bisschen angefangen nachzufragen... Hmmmm... Die Daily-Stoner Versorgung scheint mir doch sehr vergleichbar mit der in einem NRW-Kuhkaff.   
+Die Versorgung der Wochenend- und Weihnachtskiffer die scheint mir sehr unterschiedlich. Da muss man in den großen Städten tatsächlich viel auf die Straße und aus unbekannten Quellen kaufen. Das ist aufm Land besser. Die Wochenendler kennen meist den nächsten Nachbarn der zu den Daily-Stonern gehört.  
+
+Ich sehe überhaupt keine Not irgendetwas daran zu ändern, das die Daily-Stoner ein bisschen über produzieren. Ich sehe viel mehr die Gefahr, das sehr viele aktuell geplanten CSCs von der Realität überholt werden.  
+24/7/365 für Personenanzahl X immer Cannabis in Lebensmittelqualität verfügbar zu haben ist kein Spaß! Tut euch das nicht an, wenn ihr keinen habt der das schon mal ein paar Jahre am Stück geschafft hat...!  
+Immer wieder einen neuen Homegrow starten ist ne völlig andere Hausnummer als ein "Fließband" das wöchentlich/monatlich eine definierte Menge abwerfen muss! Es ist unter illegalen und legalen Bedingungen ähnlich aufwendig! Wer nur Homegrow (auch groß) kennt macht sich falsche Vorstellungen von wie verantwortungsvolle, lebensmittelgerechte Produktion funktionieren muss! 
+
+**Ich schaffe es nicht meine Gedanken aufn Punkt zu bringen... macht euch eure eigenen Gedanken und startet keine CSCs ohne eure aktuelle Lieferkette auf Tauglichkeit für Umwandlung in einen CSC geprüft zu haben - die "Gefahr" das euch diese Kette an Tag-X urplötzlich stolpern lässt ist verdammt hoch!**
+
+
+<br>
+
 
 **15.06.2022**<a id='15.06.2022'></a> *Vorbereitung Cannabis Normal Konferenz Berlin V*  
 
